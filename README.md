@@ -1,5 +1,3 @@
-## 🚀 A propos de moi 
+## 🚀 A propos 
 
-🛠️ En cours de préparation de mon github pour partager mes projets
-
-💻 Ne vous inquiétez pas, ça arrive bientôt !✨
+ça arrive bientôt 
