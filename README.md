@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi there 👋  
 
-## Owner of quartz.pw  
-Fast & powerful RDP in France 🚀
+## Co-creator of [quartz.pw](https://quartz.pw) with [@enwrk](https://github.com/enwrk)  
+Fast & powerful RDP in France 🚀 (project discontinued)  
 
+### 🔒 All my repositories are private  
+Feel free to ask about my projects!  
 
 <!--
 **adamrbh/adamrbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
